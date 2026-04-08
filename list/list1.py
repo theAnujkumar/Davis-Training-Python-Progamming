@@ -29,7 +29,7 @@ print(list1)
 
 data = [40,90,30]
 data.extend([80,20,10])
-print(data)
+print("data is ",data)
 
 #insert -> to insert element at specified index
 data3 = [30,90,60,20]

@@ -1,6 +1,6 @@
 
 # function to calculate the addition
-def addNum(x,y):
+def calculateAddition(x,y):
     return (x+y)
 
 # function to calculate the difference
