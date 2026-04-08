@@ -1,4 +1,5 @@
 # collection of any data items and mutable
+# list = unordered
 
 list = [20,[30,60],87,'hello']
 list[2] = 0

@@ -28,8 +28,9 @@ print(data)
 data2 = {10,20,30}
 #data2.update(30,60)
 
+# pop remove element randomly
 data2.pop()
 print(data2)
 
-data.remove(30)
-print(data)
+data2.remove(30)
+print(data2)
