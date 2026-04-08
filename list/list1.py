@@ -1,3 +1,5 @@
+# collection of any data items and mutable
+
 list = [20,[30,60],87,'hello']
 list[2] = 0
 #list[3] = 'hero'
@@ -51,3 +53,4 @@ data5.remove(70)
 print(data5)
 data5.remove(10)
 print(data5)
+
