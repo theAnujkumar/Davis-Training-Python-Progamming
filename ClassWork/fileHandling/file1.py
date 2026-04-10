@@ -14,9 +14,9 @@ filev = open("firstfile1.txt","w")
 # blank list of sentences
 sentences = []
 
-# write 50 sentence into file
-print("enter 50 sentence : ")
-for x in range(50):
+# write 20 sentence into file
+print("enter 20 sentence : ")
+for x in range(20):
     # input data from user
     sentence = input()
 
