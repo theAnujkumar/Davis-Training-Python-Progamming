@@ -9,21 +9,22 @@
 # program for writing data into file
 # opening file for write operation
 
-filev = open("firstfile.txt","w")
+filev = open("firstfile1.txt","w")
 
 # blank list of sentences
 sentences = []
 
-# write 3 sentence into file
-print("enter 3 sentence : ")
-for x in range(3):
-    # input daata from user
+# write 50 sentence into file
+print("enter 50 sentence : ")
+for x in range(50):
+    # input data from user
     sentence = input()
 
     # inserting the sentence into the list
-    sentences.append(sentence)
+    # it will insert line by line
+    sentences.append(sentence + "\n")
     
-    
+    #print("\n")
     # writing sentence into file
     # filev.write(sentence)
     print("-------------------")
