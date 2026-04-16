@@ -14,7 +14,7 @@ filev = open("firstfile1.txt","w")
 # blank list of sentences
 sentences = []
 
-# write 20 sentence into file
+# write 20 sentence into files
 print("enter 20 sentence : ")
 for x in range(20):
     # input data from user
