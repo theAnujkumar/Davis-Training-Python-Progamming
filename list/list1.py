@@ -7,6 +7,7 @@ list[2] = 0
 list.append(5)
 
 print(list)
+# accessing
 print(list[1][1])
 
 data2 = (40,30,90,60,20)
