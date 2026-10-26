@@ -17,6 +17,7 @@ for x in range(3):
     filev.write(sentence)
     print("-------------------")
 
+
 print("data successfully written")
 # closing file
 filev.close()

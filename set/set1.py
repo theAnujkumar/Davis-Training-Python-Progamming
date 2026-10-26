@@ -1,4 +1,5 @@
 # collection of unique elements only and mutable
+# unordered
 
 # 👉 Duplicate insert is ignored (same hash & equality check)
 s = {1, 1, 2, 2}

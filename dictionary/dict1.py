@@ -1,5 +1,6 @@
 # elements are stored in key value pair
 # key is used as index hence it is mutable and 
+# unordered
 
 x = {}          # dictionary
 m = set()       # set

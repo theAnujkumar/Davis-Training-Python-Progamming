@@ -9,6 +9,9 @@ print(list1)
 list1.sort(reverse=True)
 print(list1)
 
+ans = list1.count(70)
+print("is present or not " , ans)
+
 # wap to create a list of any 15 number and ask the user to enter to 
 # input the any other number now search this element into the list and remove 
 # all the ocurence from the list excluding the first ocurrence in python
